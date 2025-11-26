@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.git/
+.gitignore
+README.md
+LICENSE
+.vscode/
+.idea/
+*.csv
+.DS_Store
